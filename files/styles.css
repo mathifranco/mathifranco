@@ -1,0 +1,183 @@
+body {
+  text-align: center;
+  background-color: #B2B68E;
+}
+
+h1 {
+  font-size: 4rem;
+  color:  #4B883C;
+  font-family: 'Original Surfer', cursive;
+  text-shadow: 3px 0 #4CBE15;
+
+}
+
+footer {
+  color: #13260E;
+  font-family: sans-serif;
+}
+
+
+
+.burro {
+background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroCara.PNG');
+background-repeat:no-repeat;
+background-size: 100%;
+background-position:center;
+}
+
+.fiona {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/fionaFoto.PNG');
+  background-repeat:no-repeat;
+  background-size: 128%;
+  background-position:center;
+}
+
+.shrek {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekCara.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+
+.burro2 {
+background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroTriste.PNG');
+background-repeat:no-repeat;
+background-size: 110%;
+background-position:center;
+}
+
+.burroFoto3 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroFoto3.PNG');
+  background-repeat:no-repeat;
+  background-size: 115%;
+  background-position:center;
+}
+
+.shrek2 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekSonrie.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+.burro3 {
+background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/caraBurro.PNG');
+background-repeat:no-repeat;
+background-size: 115%;
+background-position:center;
+}
+
+.shrekEnojado {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekEnojado.PNG');
+  background-repeat:no-repeat;
+  background-size: 128%;
+  background-position:center;
+}
+
+.shrek3 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekCara2.PNG');
+  background-repeat:no-repeat;
+  background-size: 125%;
+  background-position:center;
+}
+
+.burro4 {
+background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroCara.PNG');
+background-repeat:no-repeat;
+background-size: 100%;
+background-position:center;
+}
+
+.fiona4 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/fiona2.PNG');
+  background-repeat:no-repeat;
+  background-size: 135%;
+  background-position:center;
+}
+
+.shrek4 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekPensando.PNG');
+  background-repeat:no-repeat;
+  background-size: 150%;
+  background-position:center;
+}
+
+.shrek5 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekCalmado.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+.shrek6 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/caraBurro.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+.shrek7 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroCara.PNG');
+  background-repeat:no-repeat;
+  background-size: 100%;
+  background-position:center;
+}
+
+.shrek8 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/buroEnojado.PNG');
+  background-repeat:no-repeat;
+  background-size: 105%;
+  background-position:center;
+}
+
+.shrek9 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/shrekCara.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+.shrek10 {
+  background-image: url('C:/Users/caroy/Desktop/Web Development/Proyecto Shrek/images/burroTriste.PNG');
+  background-repeat:no-repeat;
+  background-size: 120%;
+  background-position:center;
+}
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.boton {
+  outline: none;
+  border: 7px solid #535A14 ;
+  font-size: 3rem;
+  font-family: 'Original Surfer', cursive;
+  line-height: 8;
+  font-weight: 900;
+  color: #145A1B;
+  text-shadow: 3px 0 green;
+  border-radius: 100px;
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  text-align: center;
+  margin: 10px;
+
+}
