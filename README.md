@@ -3,7 +3,7 @@
 My name is Mathias:
 
 - 🔭 I’m currently working on personal projects using the following technologies: HTML, CSS, JS. 
-- 🌱 I’m currently learning: React JS, Node.
+- 🌱 I’m learning: React JS, Node.
 - 📫 How to reach me: mathifranco@gmail.com
 
 See you soon!
